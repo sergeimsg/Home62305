@@ -10,12 +10,12 @@ public class CreditCard {
     }
     void cardadding (int cardsum, int adding) {
         this.cardsum = this.cardsum + adding;
-        // return cardsumadd;
+
     }
 
     void removemoney (int cardsum, int removal) {
         this.cardsum = this.cardsum - removal;
-        // return cash;
+
     }
 
 }
