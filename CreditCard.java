@@ -1,7 +1,7 @@
 public class CreditCard {
     int accnumber;
     int cardsum;
-    int adding;
+
 
     public CreditCard ( int accnumber, int cardsum) {
         this.accnumber = accnumber;
